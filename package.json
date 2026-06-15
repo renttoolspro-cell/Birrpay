@@ -1,0 +1,14 @@
+{
+  "name": "birrpay",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^1.18.0",
+    "cors": "^2.8.6",
+    "express": "^4.22.2",
+    "pdf-parse": "^1.1.4"
+  }
+}
